@@ -1,0 +1,63 @@
+{
+    "personalinfo": {
+        "firstName": "mehmet fatih",
+        "lastName": "bezan",
+        "title": "material science and engineer | software engineer ",
+        "location": "Istanbul",
+        "email": "mehmetfatihbezan@gmail.com",
+        "phone": "+09 551 201 44 21 ",
+        "photo_url": "../images.jpg"
+    },
+    "skills": [ {
+        "name": "c#",
+        "level": 60
+    },
+    {
+        "name": "JavaScript",
+        "level": 50
+    },
+    {
+        "name": ".Net Framework & .NET Core",
+        "level": 45
+    },
+    {
+        "name": "SQL",
+        "level": 60
+    },
+    {
+        "name": "HTML & CSS",
+        "level": 60
+    }
+    
+],
+
+"Languages":[
+    {"name":"Turkish","level":"Native"},
+    {"name":"English","level":"beginner"}
+
+],
+"Work_Experience":[
+    {
+        "title": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "description": ""
+      },
+      {
+        "title": "",
+        "company": "",
+        "start_date": "",
+        "end_date": "",
+        "description": " "
+      }
+],
+"education": [
+  {
+    "school": "DUMLUPINAR University",
+    "graduation_date": "2011",
+    "degree": "MEDIUM Degree"
+  }
+]
+       
+}
